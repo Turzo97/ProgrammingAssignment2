@@ -1,6 +1,4 @@
-## the function will cache the inverse of a matrix
-
-## Write a short comment describing this function
+## the function will cache the inverse of a matrix ,time efficiently
 
 makeCacheMatrix <- function(x = matrix()) {
         inverse <- NULL
